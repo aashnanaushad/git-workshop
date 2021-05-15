@@ -1,0 +1,4 @@
+Hello... This is my first file in this repository . 
+
+Here, I would be taking this local file into the remote repository 
+using GIT UI.
